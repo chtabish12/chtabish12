@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chtabish12
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...ReactJs
+- 🌱 I’m currently working on ...ReactJs, NodeJs, NextJs
 - 💞️ I’m looking to collaborate on ...Web projects
 - 📫 How to reach me ...+923364637490
 
